@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title"><title id="title">Original illustration of a developer working with data and models</title><rect width="600" height="440" rx="14" fill="#f3fbfc"/>
+<path d="M0 339 L600 242 V440 H0Z" fill="#003745"/>
+<path d="M45 293 L375 155 L555 241 L225 384Z" fill="#d8f0f4"/>
+<path d="M94 140 L270 68 L270 225 L94 298Z" fill="#08262f" stroke="#15bed4" stroke-width="5"/>
+<path d="M111 155 L251 97 L251 211 L111 267Z" fill="#003e51"/>
+<path d="M125 173 L231 129 M125 189 L216 151 M125 204 L178 182" stroke="#19bbdb" stroke-width="4"/>
+<path d="M286 85 L439 25 L439 178 L286 241Z" fill="#08262f" stroke="#15bed4" stroke-width="5"/>
+<path d="M306 100 L418 55 L418 165 L306 208Z" fill="#005369"/>
+<path d="M315 159 L341 121 L364 141 L395 87" fill="none" stroke="#77ead9" stroke-width="6"/>
+<circle cx="374" cy="173" r="17" fill="none" stroke="#22bedd" stroke-width="7"/>
+<path d="M244 250 L327 217 L368 238 L286 274Z" fill="#102f3c"/>
+<path d="M260 247 L325 221 M268 255 L338 227" stroke="#57bbcc" stroke-width="3"/>
+<ellipse cx="434" cy="233" rx="42" ry="47" fill="#183747"/>
+<path d="M405 264 Q425 231 456 253 L503 310 L475 393 L362 336Z" fill="#075667"/>
+<path d="M403 283 L361 306 L301 269" fill="none" stroke="#d79972" stroke-width="24" stroke-linecap="round"/>
+<path d="M423 215 Q458 189 472 231 L461 270 L424 245Z" fill="#142f3a"/>
+<path d="M437 213 Q470 216 467 250" fill="none" stroke="#10adc6" stroke-width="8"/>
+<rect x="461" y="227" width="12" height="23" rx="5" fill="#64d5e0"/>
+<path d="M425 279 L448 292" stroke="#62d1d7" stroke-width="5"/>
+<path d="M181 308 L214 293 L240 306 L206 323Z" fill="#032b38"/>
+<path d="M187 308 L213 298 L232 306 L207 318Z" fill="#20bfd4"/></svg>
