@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="assets/badges/focus.svg" alt="Focus: Machine Learning and Deep Learning"><br><br>
-  <a href="https://www.linkedin.com/in/maleesha-kumarasinghe"><img src="assets/badges/linkedin.svg" alt="Connect on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/maleesha-kumarasinghe-7b4339265/"><img src="assets/badges/linkedin.svg" alt="Connect on LinkedIn"></a>
   <a href="https://github.com/Maleesha-K"><img src="assets/badges/github.svg" alt="Visit Maleesha-K on GitHub"></a>
 </p>
 
@@ -93,7 +93,7 @@ I'm **Maleesha Piumal Kumarasinghe**, a Computer Science undergraduate at the **
 | :--- | :--- | :--- |
 | **📈 [Tourism Demand Forecasting](https://github.com/rathishTharusha/srilanka-tourist-arrivals-prediction)**<br>Collaborative research using search-intent data. **Seven architectures**, **550-day rolling test**, **8.94% rolling MAPE** with RBF-kernel SVR.<br>**My contribution:** Data integration, feature selection and model evaluation, with a main focus on **structural-break analysis**. | Time Series · ML | `Python` `Pandas` `Scikit-learn` `SVR` `LSTM` |
 | **💬 [Sinhala-Script Language Identification](https://github.com/Maleesha-K/Sinhala-Script-Language-Identification-LangID-for-Sinhala-Pali-and-Sanskrit)**<br>Ongoing identification of **Sinhala, Pali and Sanskrit** written in the same script.<br>**My contribution:** Feature engineering, model training, fine-tuning and evaluation including zero-shot testing. | NLP · ML | `FastText` `Hugging Face` `Python` |
-| **👁️ EcoEye — Real-Time Occupancy Detection**<br>Multi-camera occupancy sensing with edge devices and a live dashboard.<br>**My contribution:** YOLO integration, a FastAPI/OpenCV backend, API and dashboard integration, and Docker deployment. | Computer Vision · Edge | `YOLO` `OpenCV` `FastAPI` `Docker` |
+| **👁️ [EcoEye — Real-Time Occupancy Detection](https://github.com/Maleesha-K/EcoEYE)**<br>Multi-camera occupancy sensing with edge devices and a live dashboard.<br>**My contribution:** YOLO integration, a FastAPI/OpenCV backend, API and dashboard integration, and Docker deployment. | Computer Vision · Edge | `YOLO` `OpenCV` `FastAPI` `Docker` |
 
 ![Gradient divider](assets/divider-gradient.svg)
 
@@ -196,7 +196,7 @@ I'm **Maleesha Piumal Kumarasinghe**, a Computer Science undergraduate at the **
 <h3 align="center">🌐 Let's Connect</h3>
 <p align="center"><em>Interested in data science, machine learning, deep learning, and building practical systems.</em></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/maleesha-kumarasinghe"><img src="assets/badges/linkedin.svg" alt="Connect on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/maleesha-kumarasinghe-7b4339265/"><img src="assets/badges/linkedin.svg" alt="Connect on LinkedIn"></a>
   <a href="https://github.com/Maleesha-K"><img src="assets/badges/github.svg" alt="Visit Maleesha-K on GitHub"></a>
 </p>
 <br>
