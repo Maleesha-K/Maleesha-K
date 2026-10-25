@@ -1,7 +1,7 @@
 {
   "username": "Maleesha-K",
-  "as_of": "2026-10-24",
-  "from": "2025-10-25",
+  "as_of": "2026-10-25",
+  "from": "2025-10-26",
   "sources": [
     "https://api.github.com/users/Maleesha-K",
     "https://github.com/users/Maleesha-K/contributions",
@@ -38,10 +38,6 @@
     "Makefile": 414
   },
   "calendar": {
-    "2025-10-25": {
-      "count": 0,
-      "level": 0
-    },
     "2025-10-26": {
       "count": 0,
       "level": 0
@@ -1495,6 +1491,10 @@
       "level": 0
     },
     "2026-10-24": {
+      "count": 0,
+      "level": 0
+    },
+    "2026-10-25": {
       "count": 0,
       "level": 0
     }
